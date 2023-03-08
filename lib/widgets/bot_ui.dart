@@ -36,7 +36,7 @@ class BotUi extends StatelessWidget {
                                     ),
                                   ),
                                   child: const Text(
-                                    "Hello again. I'm well prepared to answer all your questions this time.",
+                                    "Hoş geldin! Bu gün senin için çok kötü esprilerim var. Sabırsızlıkla kötü espri yapmayı bekliyorum. :)",
                                     style: TextStyle(
                                         color: Colors.white, fontSize: 16),
                                   ),

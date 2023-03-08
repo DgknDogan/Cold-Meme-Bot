@@ -24,12 +24,12 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "BotChat",
+      title: "Cold Meme Bot",
       home: Scaffold(
         body: const BotUi(),
         appBar: AppBar(
           backgroundColor: Colors.purple.shade400,
-          title: const Text('Nasni Bot'),
+          title: const Text('Cold Meme Bot'),
           elevation: 5,
         ),
         bottomNavigationBar: BottomNavigationBar(

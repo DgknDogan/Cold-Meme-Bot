@@ -16,6 +16,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Nasni Bot Previev
-![giphy](https://user-images.githubusercontent.com/96086541/221365715-363e03d6-3283-4d49-87db-735032e6bdf5.gif)
-
